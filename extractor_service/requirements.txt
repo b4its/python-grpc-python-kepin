@@ -1,0 +1,6 @@
+grpcio
+grpcio-tools
+pandas
+openpyxl
+requests
+python-dotenv

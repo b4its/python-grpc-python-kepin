@@ -1,0 +1,37 @@
+syntax = "proto3";
+package financial;
+
+service FinancialExtractor {
+  // Server-side streaming: 1 Request -> Banyak Response (Progress + Hasil)
+  rpc ExtractAndAnalyze (AnalyzeRequest) returns (stream AnalyzeResponse);
+}
+
+
+message AnalyzeRequest {
+  string file_name = 1;
+  bytes file_content = 2;
+  string file_extension = 3;
+  string analyze_mode = 4; //  "fast", "normal", "deep"
+}
+
+message AnalyzeResponse {
+  oneof result {
+    string log_message = 1;      // Untuk status: "Processing row 1..."
+    string partial_json = 2;     // Jika ingin streaming token (opsional)
+    FinancialResult final_data = 3; // Hasil akhir
+    string error_message = 4;
+  }
+}
+
+// Struktur Data Keuangan
+message FinancialResult {
+  string nama_entitas = 1;
+  string periode_laporan = 2;
+  string mata_uang = 3;
+  string satuan_angka = 4;
+  double total_aset = 5;
+  double total_liabilitas = 6;
+  double total_ekuitas = 7;
+  double laba_bersih = 8;
+  string json_data_lain = 9; 
+}
