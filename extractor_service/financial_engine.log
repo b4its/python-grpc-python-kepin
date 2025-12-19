@@ -1,0 +1,101 @@
+2025-12-19 23:03:49,336 - INFO - 🚀 Financial Engine running on port 50051
+2025-12-19 23:04:01,167 - INFO - Menerima request file: 20251219_200430_others.xlsx
+2025-12-19 23:04:01,823 - INFO - Memproses Sheet: Context (60 baris)
+2025-12-19 23:04:01,824 - INFO - [Context] Kolom data terdeteksi pada indeks: 0 (Header: currentyearduration)
+2025-12-19 23:04:01,829 - INFO - Memproses Sheet: InlineXBRL (2 baris)
+2025-12-19 23:04:01,830 - INFO - Memproses Sheet: 1000000 (45 baris)
+2025-12-19 23:04:01,831 - INFO - [1000000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearinstant)
+2025-12-19 23:04:01,831 - INFO - Entity Detected: PT Adaro Andalan Indonesia Tbk
+2025-12-19 23:04:01,834 - INFO - Memproses Sheet: 1210000 (272 baris)
+2025-12-19 23:04:01,835 - INFO - [1210000] Kolom data terdeteksi pada indeks: 0 (Header: [1210000] statement )
+2025-12-19 23:04:01,848 - INFO - Memproses Sheet: 1321000 (66 baris)
+2025-12-19 23:04:01,849 - INFO - [1321000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,850 - INFO - Update Laba Bersih (Score 0): 347408.0 (Label: Jumlah laba bruto)
+2025-12-19 23:04:01,853 - INFO - Update Laba Bersih (Score 3): 195996.0 (Label: Laba (rugi) yang dapat diatribusikan ke entitas induk)
+2025-12-19 23:04:01,855 - INFO - Memproses Sheet: 1410000 (41 baris)
+2025-12-19 23:04:01,868 - INFO - Memproses Sheet: 1410000PY (41 baris)
+2025-12-19 23:04:01,880 - INFO - Memproses Sheet: 1510000 (179 baris)
+2025-12-19 23:04:01,880 - INFO - [1510000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,889 - INFO - Memproses Sheet: 1610000 (62 baris)
+2025-12-19 23:04:01,889 - INFO - [1610000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,898 - INFO - Memproses Sheet: 1611000 (84 baris)
+2025-12-19 23:04:01,910 - INFO - Memproses Sheet: 1611000PY (84 baris)
+2025-12-19 23:04:01,921 - INFO - Memproses Sheet: 1611100 (5 baris)
+2025-12-19 23:04:01,922 - INFO - [1611100] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,923 - INFO - Memproses Sheet: 1617000 (30 baris)
+2025-12-19 23:04:01,924 - INFO - [1617000] Kolom data terdeteksi pada indeks: 0 (Header: currentyearduration)
+2025-12-19 23:04:01,926 - INFO - Memproses Sheet: 1619000 (17 baris)
+2025-12-19 23:04:01,927 - INFO - [1619000] Kolom data terdeteksi pada indeks: 0 (Header: currentyearduration)
+2025-12-19 23:04:01,929 - INFO - Memproses Sheet: 1620100 (41 baris)
+2025-12-19 23:04:01,929 - INFO - [1620100] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:01,931 - INFO - Memproses Sheet: 1620200 (46 baris)
+2025-12-19 23:04:01,931 - INFO - [1620200] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:01,937 - INFO - Memproses Sheet: 1620500 (9 baris)
+2025-12-19 23:04:01,937 - INFO - [1620500] Kolom data terdeteksi pada indeks: 1 (Header: currentyearinstant)
+2025-12-19 23:04:01,939 - INFO - Memproses Sheet: 1630000 (77 baris)
+2025-12-19 23:04:01,939 - INFO - [1630000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearinstant)
+2025-12-19 23:04:01,942 - INFO - Memproses Sheet: 1632000 (5 baris)
+2025-12-19 23:04:01,943 - INFO - [1632000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,944 - INFO - Memproses Sheet: 1640100 (31 baris)
+2025-12-19 23:04:01,944 - INFO - [1640100] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:01,946 - INFO - Memproses Sheet: 1670000 (38 baris)
+2025-12-19 23:04:01,947 - INFO - [1670000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,949 - INFO - Memproses Sheet: 1671000 (5 baris)
+2025-12-19 23:04:01,949 - INFO - [1671000] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,952 - INFO - Memproses Sheet: 1691000a (317 baris)
+2025-12-19 23:04:01,953 - INFO - [1691000a] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:01,972 - INFO - Memproses Sheet: 1691100 (5 baris)
+2025-12-19 23:04:01,972 - INFO - [1691100] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:01,977 - INFO - Memproses Sheet: 1692000 (286 baris)
+2025-12-19 23:04:01,977 - INFO - [1692000] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:01,995 - INFO - Memproses Sheet: 1693000 (309 baris)
+2025-12-19 23:04:01,995 - INFO - [1693000] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:02,013 - INFO - Memproses Sheet: 1693100 (5 baris)
+2025-12-19 23:04:02,013 - INFO - [1693100] Kolom data terdeteksi pada indeks: 1 (Header: currentyearduration)
+2025-12-19 23:04:02,015 - INFO - Memproses Sheet: 1696000 (286 baris)
+2025-12-19 23:04:02,015 - INFO - [1696000] Kolom data terdeteksi pada indeks: 0 (Header: currentyearinstant)
+2025-12-19 23:04:02,030 - INFO - Memproses Sheet: hidden (129 baris)
+2025-12-19 23:04:02,045 - INFO - Proses Selesai: PT Adaro Andalan Indonesia Tbk - Aset: 0.0, Laba: 195996.0
+2025-12-19 23:06:03,275 - INFO - Menerima File: 20251219_200430_others.xlsx
+2025-12-19 23:06:03,835 - INFO - Entitas Ditemukan: PT Adaro Andalan Indonesia Tbk
+2025-12-19 23:06:03,842 - INFO - Update total_aset: 5827769.0 (dari: jumlah aset)
+2025-12-19 23:06:03,846 - INFO - Update total_liabilitas: 2339594.0 (dari: jumlah liabilitas)
+2025-12-19 23:06:03,847 - INFO - Update total_ekuitas: 3488175.0 (dari: jumlah ekuitas)
+2025-12-19 23:06:03,853 - INFO - Update laba_bersih: 195996.0 (dari: laba (rugi) yang dapat diatribusikan ke entitas induk)
+2025-12-19 23:06:03,854 - INFO - Update laba_bersih: 162288.0 (dari: laba rugi komprehensif yang dapat diatribusikan ke entitas induk)
+2025-12-19 23:06:03,961 - INFO - Selesai. Aset: 5827769.0, Laba: 162288.0
+2025-12-19 23:14:32,512 - ERROR - Error processing file: name 'json_dump' is not defined
+Traceback (most recent call last):
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/main.py", line 268, in ExtractAndAnalyze
+    print(json_dump(data))
+          ^^^^^^^^^
+NameError: name 'json_dump' is not defined
+2025-12-19 23:16:51,909 - ERROR - Error: dump() missing 1 required positional argument: 'fp'
+Traceback (most recent call last):
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/main.py", line 246, in ExtractAndAnalyze
+    print(json.dump(data))
+          ~~~~~~~~~^^^^^^
+TypeError: dump() missing 1 required positional argument: 'fp'
+2025-12-19 23:35:21,307 - ERROR - Sheet processing generated an exception: single positional indexer is out-of-bounds
+2025-12-19 23:35:24,548 - ERROR - Sheet processing generated an exception: single positional indexer is out-of-bounds
+2025-12-19 23:40:04,949 - ERROR - Error: single positional indexer is out-of-bounds
+Traceback (most recent call last):
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/main.py", line 284, in ExtractAndAnalyze
+    data = scanner.scan_all(dfs)
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/main.py", line 199, in scan_all
+    values_col = df.iloc[:, target_col].tolist()
+                 ~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/env/lib/python3.13/site-packages/pandas/core/indexing.py", line 1185, in __getitem__
+    return self._getitem_tuple(key)
+           ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/env/lib/python3.13/site-packages/pandas/core/indexing.py", line 1691, in _getitem_tuple
+    tup = self._validate_tuple_indexer(tup)
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/env/lib/python3.13/site-packages/pandas/core/indexing.py", line 967, in _validate_tuple_indexer
+    self._validate_key(k, i)
+    ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/env/lib/python3.13/site-packages/pandas/core/indexing.py", line 1593, in _validate_key
+    self._validate_integer(key, axis)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/home/markx/programming/rust/cargoRs/bekepin/extractor_service/env/lib/python3.13/site-packages/pandas/core/indexing.py", line 1686, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
